@@ -8,6 +8,7 @@ public class firstclass {
 		System.out.println("please add two numbers");
 		System.out.println("Result is: "+ add(x,y));
 		//add(x,y);
+		String F =  "FahadBaderAlmtereu";
 
 	}
 	
